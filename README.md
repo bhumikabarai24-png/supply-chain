@@ -64,12 +64,7 @@ NumPy
 Scikit-learn
 Joblib
 Streamlit
-Git & GitHub
-▶️ Run Locally
-git clone https://github.com/bhumikabarai24-png/supply-chain.git
-cd supply-chain
-pip install -r requirements.txt
-streamlit run app.py
+
 📁 Project Structure
 supply-chain/
 │
@@ -77,9 +72,9 @@ supply-chain/
 ├── delay_model.pkl
 ├── requirements.txt
 ├── README.md
-└── .gitignore
-👩‍💻 Author
+└── .gitignor
 
+👩‍💻 Author
 Bhumika Barai
 
 GitHub:
